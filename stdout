@@ -1,0 +1,15 @@
+total 92
+drwxr-xr-x 6 mudoh 2022_paris  4096 Jul 17 22:24 .
+drwxr-xr-x 7 mudoh 2022_paris  4096 Jul  7 21:12 ..
+-rwxr-xr-x 1 mudoh 2022_paris 16240 Jul 17 02:26 a.out
+-rw-r--r-- 1 mudoh 2022_paris  2237 Jul 17 04:40 echo.c
+drwxr-xr-x 2 mudoh 2022_paris  4096 Jul 14 00:43 includes
+-rw-r--r-- 1 mudoh 2022_paris   729 Jul 17 22:23 le_cancer
+drwxr-xr-x 3 mudoh 2022_paris  4096 Jul 17 05:06 libft
+-rw-r--r-- 1 mudoh 2022_paris  2618 Jul  7 21:28 libft.h
+-rw-r--r-- 1 mudoh 2022_paris     0 Jul 17 22:21 ls
+-rw-r--r-- 1 mudoh 2022_paris  1289 Jul 17 04:38 Makefile
+-rwxr-xr-x 1 mudoh 2022_paris 33184 Jul 17 22:13 minishell
+drwxr-xr-x 2 mudoh 2022_paris  4096 Jul 17 22:13 objs
+drwxr-xr-x 2 mudoh 2022_paris  4096 Jul 17 04:38 srcs
+-rw-r--r-- 1 mudoh 2022_paris     0 Jul 17 22:24 stdout
