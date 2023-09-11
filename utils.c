@@ -6,7 +6,7 @@
 /*   By: mudoh <mudoh@student.42.fr>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/16 03:13:15 by mudoh             #+#    #+#             */
-/*   Updated: 2023/07/17 04:40:34 by mudoh            ###   ########.fr       */
+/*   Updated: 2023/09/11 13:53:40 by mudoh            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -61,25 +61,3 @@ char	*ft_strrchr(const char *s, int c)
 	}
 	return (0);
 }
-
-
-
-
-/* int	main(int ac, char **av, char **env)
-{
-	char *tab1[10] = {"echo", "hello", "je", "suis", "moha", NULL};
-	// hello je suis moha\n
-	char *tab2[10] = {"echo", "-n", "-", NULL};
-	// hello
-	char *tab3[10] = {"echo", "-nnnnnnn", "-nnnnnnna", "hello", NULL};
-	// hello
-	char *tab4[10] = {"echo", "-njaipasfaim", "hello", NULL};
-	// -njaipasfaim hello\n
-	char *tab5[10] = {"echo", "lol", "-nnnnnnn", "hello", NULL};
-	// lol -nnnnnnn hello\n
-	char *tab6[10] = {"echo", "-", NULL};
-	// -\n
-	char *tab7[10] = {"echo", "hello", "-n", "vraiment", NULL};
-	// hello -n vraiment\n
-	ft_echo(tab6, env);
-} */

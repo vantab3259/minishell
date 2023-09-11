@@ -1,13 +1,10 @@
-a.out
-echo.c
-filee
+file
+file_out
 includes
-le_cancer
 libft
 libft.h
-ls
 Makefile
 minishell
 objs
 srcs
-stdout
+utils.c
